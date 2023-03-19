@@ -25,7 +25,7 @@ SECRET_KEY = 'r7m6j+go&4*gf^=rz2x35h2q8xmhf#nl*qdm*z)jrz45c9e)!#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['jobportalproject']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
